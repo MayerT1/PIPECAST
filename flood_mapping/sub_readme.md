@@ -1,0 +1,1 @@
+This folder contains Box 3, i.e. taking a tasked commercial SAR image and running flood mapping algorithms upon it. There are several .py files that help to extract metadata from the image as well as a .ipynb that allows for the running of HYDRAFloods and visualization of these images. 
